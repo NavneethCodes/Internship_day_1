@@ -1,0 +1,14 @@
+a{
+    color: purple;
+    text-decoration:none;
+}
+th{
+    color: brown;
+    background-color: antiquewhite;
+}
+
+table, th, td{
+    width: 100%;
+    border: 1px solid black;
+    padding: 1px;
+}
